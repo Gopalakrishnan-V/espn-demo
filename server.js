@@ -21,6 +21,10 @@ app.use((req, res, next) => {
   next();
 });
 
+app.get("/api/hello", async (req, res) => {
+  res.send({ message: "hello" });
+});
+
 app.get("/api/teams", async (req, res) => {
   const teams = await espn.getTeams();
   res.send({ data: teams });
