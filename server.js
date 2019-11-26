@@ -2,7 +2,7 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const espn = require("./espn");
 
-espn.init({ headless: false, devtools: false });
+espn.init();
 
 const app = express();
 app.use(bodyParser.urlencoded({ extended: false }));
