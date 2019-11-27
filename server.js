@@ -1,6 +1,6 @@
 const express = require("express");
 const bodyParser = require("body-parser");
-const espn = require("./espn");
+const espn = require("espn-cricket-api");
 
 espn.init();
 
