@@ -1,0 +1,347 @@
+[
+  {
+    "id": "35320",
+    "uuid": "a1acb553284652288118b17630166ee8",
+    "guid": "a1acb553284652288118b17630166ee8",
+    "displayName": "Sachin Tendulkar",
+    "shortName": "Tendulkar",
+    "type": "player",
+    "sport": "cricket",
+    "teamRelationships": [
+      {
+        "type": "team",
+        "displayName": "India",
+        "core": {
+          "id": "6",
+          "uid": "s:200~t:6",
+          "slug": "india",
+          "location": "India",
+          "name": "India",
+          "nickname": "India",
+          "abbreviation": "INDIA",
+          "displayName": "India",
+          "shortDisplayName": "INDIA",
+          "color": "#137dd2",
+          "isActive": true,
+          "logos": [
+            {
+              "href": "https://a.espncdn.com/i/teamlogos/cricket/500/6.png",
+              "rel": ["full", "default"]
+            }
+          ],
+          "links": [
+            {
+              "language": "en",
+              "rel": ["statistics", "desktop", "team"],
+              "href": "https://stats.espncricinfo.com/ci/engine/records/index.html?id=6;type=team",
+              "text": "Statistics",
+              "shortText": "Statistics",
+              "isExternal": false,
+              "isPremium": false
+            },
+            {
+              "language": "en",
+              "rel": ["players", "desktop", "team"],
+              "href": "https://www.espncricinfo.com/ci/content/player/country.html?country=6",
+              "text": "Players",
+              "shortText": "Players",
+              "isExternal": false,
+              "isPremium": false
+            },
+            {
+              "language": "en",
+              "rel": ["videos", "desktop", "team"],
+              "href": "https://www.espncricinfo.com/ci/content/current/video_audio/index.html?object=6",
+              "text": "Videos",
+              "shortText": "Videos",
+              "isExternal": false,
+              "isPremium": false
+            },
+            {
+              "language": "en",
+              "rel": ["clubhouse", "desktop", "team"],
+              "href": "https://www.espn.in/cricket/team/_/id/6/india",
+              "text": "Clubhouse",
+              "shortText": "Clubhouse",
+              "isExternal": false,
+              "isPremium": false
+            },
+            {
+              "language": "en",
+              "rel": ["fixtures", "desktop", "team"],
+              "href": "https://www.espn.in/cricket/scores/team/6/india",
+              "text": "Fixtures",
+              "shortText": "Fixtures",
+              "isExternal": false,
+              "isPremium": false
+            }
+          ],
+          "isNational": true,
+          "athletes": {}
+        }
+      }
+    ],
+    "relevance": "-999677",
+    "isActive": true,
+    "isRetired": false,
+    "defaultLeagueSlug": "cricket",
+    "label": "India",
+    "uid": "s:200~a:35320",
+    "headshot": {
+      "href": "https://a.espncdn.com/i/headshots/cricket/players/full/35320.png",
+      "alt": "SR Tendulkar",
+      "rel": ["full", "default"]
+    },
+    "links": [
+      {
+        "language": "en-in",
+        "rel": ["playercard", "desktop", "athlete"],
+        "href": "https://www.espncricinfo.com/ci/content/player/35320.html",
+        "text": "Player Card",
+        "shortText": "Player Card",
+        "isExternal": false,
+        "isPremium": false
+      }
+    ],
+    "includeSponsor": false,
+    "showKey": false,
+    "isLocked": false,
+    "flag": {
+      "href": "https://a.espncdn.com/i/teamlogos/cricket/500/6.png",
+      "width": 500,
+      "height": 500,
+      "alt": "INDIA",
+      "rel": ["full", "default", "country-flag"]
+    }
+  },
+  {
+    "id": "42639",
+    "uuid": "f745dc1da59634f9169b83506704de8a",
+    "guid": "f745dc1da59634f9169b83506704de8a",
+    "displayName": "Shahid Afridi",
+    "shortName": "Afridi",
+    "type": "player",
+    "sport": "cricket",
+    "teamRelationships": [
+      {
+        "type": "team",
+        "displayName": "Pakistan",
+        "core": {
+          "id": "7",
+          "uid": "s:200~t:7",
+          "slug": "pakistan",
+          "location": "Pakistan",
+          "name": "Pakistan",
+          "nickname": "Pakistan",
+          "abbreviation": "PAK",
+          "displayName": "Pakistan",
+          "shortDisplayName": "PAK",
+          "color": "#005b20",
+          "isActive": true,
+          "logos": [
+            {
+              "href": "https://a.espncdn.com/i/teamlogos/cricket/500/7.png",
+              "rel": ["full", "default"]
+            }
+          ],
+          "links": [
+            {
+              "language": "en",
+              "rel": ["statistics", "desktop", "team"],
+              "href": "https://stats.espncricinfo.com/ci/engine/records/index.html?id=7;type=team",
+              "text": "Statistics",
+              "shortText": "Statistics",
+              "isExternal": false,
+              "isPremium": false
+            },
+            {
+              "language": "en",
+              "rel": ["players", "desktop", "team"],
+              "href": "https://www.espncricinfo.com/ci/content/player/country.html?country=7",
+              "text": "Players",
+              "shortText": "Players",
+              "isExternal": false,
+              "isPremium": false
+            },
+            {
+              "language": "en",
+              "rel": ["videos", "desktop", "team"],
+              "href": "https://www.espncricinfo.com/ci/content/current/video_audio/index.html?object=7",
+              "text": "Videos",
+              "shortText": "Videos",
+              "isExternal": false,
+              "isPremium": false
+            },
+            {
+              "language": "en",
+              "rel": ["clubhouse", "desktop", "team"],
+              "href": "https://www.espn.in/cricket/team/_/id/7/pakistan",
+              "text": "Clubhouse",
+              "shortText": "Clubhouse",
+              "isExternal": false,
+              "isPremium": false
+            },
+            {
+              "language": "en",
+              "rel": ["fixtures", "desktop", "team"],
+              "href": "https://www.espn.in/cricket/scores/team/7/pakistan",
+              "text": "Fixtures",
+              "shortText": "Fixtures",
+              "isExternal": false,
+              "isPremium": false
+            }
+          ],
+          "isNational": true,
+          "athletes": {}
+        }
+      }
+    ],
+    "relevance": "-999916",
+    "isActive": true,
+    "isRetired": false,
+    "defaultLeagueSlug": "cricket",
+    "label": "Pakistan",
+    "uid": "s:200~a:42639",
+    "headshot": {
+      "href": "https://a.espncdn.com/i/headshots/cricket/players/full/42639.png",
+      "alt": "Shahid Afridi",
+      "rel": ["full", "default"]
+    },
+    "links": [
+      {
+        "language": "en-in",
+        "rel": ["playercard", "desktop", "athlete"],
+        "href": "https://www.espncricinfo.com/ci/content/player/42639.html",
+        "text": "Player Card",
+        "shortText": "Player Card",
+        "isExternal": false,
+        "isPremium": false
+      }
+    ],
+    "includeSponsor": false,
+    "showKey": false,
+    "isLocked": false,
+    "flag": {
+      "href": "https://a.espncdn.com/i/teamlogos/cricket/500/7.png",
+      "width": 500,
+      "height": 500,
+      "alt": "PAK",
+      "rel": ["full", "default", "country-flag"]
+    }
+  },
+  {
+    "id": "253802",
+    "uuid": "1db8126cfddd3caad09c178d9db45fc5",
+    "guid": "1db8126cfddd3caad09c178d9db45fc5",
+    "displayName": "Virat Kohli",
+    "shortName": "Kohli",
+    "type": "player",
+    "sport": "cricket",
+    "teamRelationships": [
+      {
+        "type": "team",
+        "displayName": "India",
+        "core": {
+          "id": "6",
+          "uid": "s:200~t:6",
+          "slug": "india",
+          "location": "India",
+          "name": "India",
+          "nickname": "India",
+          "abbreviation": "INDIA",
+          "displayName": "India",
+          "shortDisplayName": "INDIA",
+          "color": "#137dd2",
+          "isActive": true,
+          "logos": [
+            {
+              "href": "https://a.espncdn.com/i/teamlogos/cricket/500/6.png",
+              "rel": ["full", "default"]
+            }
+          ],
+          "links": [
+            {
+              "language": "en",
+              "rel": ["statistics", "desktop", "team"],
+              "href": "https://stats.espncricinfo.com/ci/engine/records/index.html?id=6;type=team",
+              "text": "Statistics",
+              "shortText": "Statistics",
+              "isExternal": false,
+              "isPremium": false
+            },
+            {
+              "language": "en",
+              "rel": ["players", "desktop", "team"],
+              "href": "https://www.espncricinfo.com/ci/content/player/country.html?country=6",
+              "text": "Players",
+              "shortText": "Players",
+              "isExternal": false,
+              "isPremium": false
+            },
+            {
+              "language": "en",
+              "rel": ["videos", "desktop", "team"],
+              "href": "https://www.espncricinfo.com/ci/content/current/video_audio/index.html?object=6",
+              "text": "Videos",
+              "shortText": "Videos",
+              "isExternal": false,
+              "isPremium": false
+            },
+            {
+              "language": "en",
+              "rel": ["clubhouse", "desktop", "team"],
+              "href": "https://www.espn.in/cricket/team/_/id/6/india",
+              "text": "Clubhouse",
+              "shortText": "Clubhouse",
+              "isExternal": false,
+              "isPremium": false
+            },
+            {
+              "language": "en",
+              "rel": ["fixtures", "desktop", "team"],
+              "href": "https://www.espn.in/cricket/scores/team/6/india",
+              "text": "Fixtures",
+              "shortText": "Fixtures",
+              "isExternal": false,
+              "isPremium": false
+            }
+          ],
+          "isNational": true,
+          "athletes": {}
+        }
+      }
+    ],
+    "relevance": "-997088",
+    "isActive": true,
+    "isRetired": false,
+    "defaultLeagueSlug": "cricket",
+    "label": "India",
+    "uid": "s:200~a:253802",
+    "headshot": {
+      "href": "https://a.espncdn.com/i/headshots/cricket/players/full/253802.png",
+      "alt": "V Kohli",
+      "rel": ["full", "default"]
+    },
+    "links": [
+      {
+        "language": "en-in",
+        "rel": ["playercard", "desktop", "athlete"],
+        "href": "https://www.espncricinfo.com/ci/content/player/253802.html",
+        "text": "Player Card",
+        "shortText": "Player Card",
+        "isExternal": false,
+        "isPremium": false
+      }
+    ],
+    "includeSponsor": false,
+    "showKey": false,
+    "isLocked": false,
+    "flag": {
+      "href": "https://a.espncdn.com/i/teamlogos/cricket/500/6.png",
+      "width": 500,
+      "height": 500,
+      "alt": "INDIA",
+      "rel": ["full", "default", "country-flag"]
+    }
+  }
+]

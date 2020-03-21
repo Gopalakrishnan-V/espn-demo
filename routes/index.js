@@ -2,6 +2,7 @@ const express = require("express");
 const espn = require("espn-cricket-api");
 const router = express.Router();
 const cache = require("../utils/cacheInstance");
+const popularSearches = require("../data/popularSearches.json");
 
 router.get("/api/teams", async (req, res) => {
   const teams = await espn.getTeams();
@@ -29,6 +30,10 @@ router.get("/api/search", async (req, res) => {
   const searchResults = await espn.search({ query: q, limit });
   cache.set(req.url, { data: searchResults });
   res.send({ data: searchResults, source: "api" });
+});
+
+router.get("/api/search/popular", async (req, res) => {
+  res.send({ data: popularSearches, source: "api" });
 });
 
 module.exports = router;
