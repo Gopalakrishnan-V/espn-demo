@@ -19,7 +19,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "espn-cricket-api": "^1.0.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node-cache": "^5.0.2",
     "puppeteer": "^2.0.0"
   }
